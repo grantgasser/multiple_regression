@@ -14,3 +14,7 @@ a qualitative predictor called holiday that is coded 1 if the week has a holiday
 This [dataset](http://users.stat.ufl.edu/~rrandles/sta4210/Rclassnotes/data/textdatasets/KutnerData/Chapter%20%206%20Data%20Sets/CH06PR05.txt) is based on the following: In ,l sm,lll-scale experimental study of the relation between degree ofbnmd
 liking (Y) and moisture content (XI) and sweetness (X2 ) of the product, the following results
 were obtained from the expeliment based on a completely randomized design (dat'l ,He coded):
+
+
+##### Note:
+In addition to using the lm function, the closed form solution is $n+1$
