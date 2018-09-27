@@ -13,7 +13,7 @@ a qualitative predictor called holiday that is coded 1 if the week has a holiday
 #### A dataset from the textbook Applied Linear Statistical Models by Kutner, Nachtsheim, Neter, & Li
 This [dataset](http://users.stat.ufl.edu/~rrandles/sta4210/Rclassnotes/data/textdatasets/KutnerData/Chapter%20%206%20Data%20Sets/CH06PR05.txt) is based on the following: In a small-scale experimental study of the relation between degree of brand
 liking (Y) and moisture content (X1) and sweetness (X2) of the product, the following results
-were obtained from the experiment based on a completely randomized design (data are coded):
+were obtained from the experiment based on a completely randomized design (data are coded).
 
 
 ##### Note:
